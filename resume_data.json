@@ -1,0 +1,49 @@
+{
+  "name": "T. Vamsi Krishna",
+  "title": "B.Tech Graduate",
+  "email": "Vamsi826258@gmail.com",
+  "phone": "9390752169",
+  "location": "Bhagh Amberpet Hyderabad, Telangana, 500013",
+  "objective": "To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills.",
+  "skills": [
+    "CAD",
+    "Estimation",
+    "Engineering"
+  ],
+  "experience": [
+    {
+      "position": "Aug-2023 - Sep-2023Student Intern -",
+      "company": "Advaita Gloval IT Labs Pvt Ltd",
+      "duration": "",
+      "description": "Worked on Auto- Cad Software Completed Project on 2D House plan using Auto Cad Software Education"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "JNTUH",
+      "year": "2024",
+      "grade": "7.67"
+    },
+    {
+      "degree": "MPC (Intermediate)",
+      "institution": "Board of intermediate college",
+      "year": "2020",
+      "grade": "75.5"
+    },
+    {
+      "degree": "SSC",
+      "institution": "School",
+      "year": "2018",
+      "grade": "8.0"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Detailed Estimation And Costing On Elevations Of Buildings",
+      "description": "Project completed in ACE Engineering College",
+      "technologies": "AutoCAD, Engineering Estimation"
+    }
+  ],
+  "social_links": {}
+}
